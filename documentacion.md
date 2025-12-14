@@ -41,6 +41,7 @@ sudo apt install firejail firetools -y
 Copiar el codigo de ejecucion de terminal root, editando la aplicación y el apartado que pone “Orden”.
 
 ![](img/2.png)
+
 ![](img/2.1.png)
 
 
@@ -48,6 +49,7 @@ Copiar el codigo de ejecucion de terminal root, editando la aplicación y el apa
 Abrir Firejail Configuration Wizard:
 
 ![](img/3.png)
+
 ![](img/3.1.png)
 
 # 3. Insertar el comando
