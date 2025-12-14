@@ -81,6 +81,7 @@ Se abrirá un terminal dentro del entorno aislado:
 Abrir FireTools y seleccionar la segunda opción para comprobar que se está ejecutando correctamente:
 
 ![](img/8.png)
+
 ![](img/8.1.png)
 
 ![](img/8.2.png)
